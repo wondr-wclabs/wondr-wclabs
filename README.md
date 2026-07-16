@@ -57,20 +57,6 @@ I am currently going deeper into systems programming and embedded engineering, w
 
 ![C++](https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&variant=branded&size=xs&theme=stone) ![Rust](https://www.shieldcn.dev/badge/-Rust-000000.svg?logo=rust&variant=branded&size=xs&theme=stone) ![Fortran](https://www.shieldcn.dev/badge/-Fortran-734F96.svg?logo=fortran&variant=branded&size=xs&theme=stone) ![x86/x86-64](https://www.shieldcn.dev/badge/-x86%2Fx86--64-525252.svg?variant=branded&size=xs&theme=stone) ![ARM Cortex-M](https://www.shieldcn.dev/badge/-ARM_Cortex--M-0091BD.svg?logo=arm&variant=branded&size=xs&theme=stone) ![RISC-V](https://www.shieldcn.dev/badge/-RISC--V-283272.svg?logo=riscv&variant=branded&size=xs&theme=stone) ![ARM/AArch64](https://www.shieldcn.dev/badge/-ARM%2FAArch64-0091BD.svg?logo=arm&variant=branded&size=xs&theme=stone)
 
-## Learning Progress
-
-Approximate self-assessment for languages and assembly targets I am actively studying. I am currently strongest with x86/x86-64 compared to the other assembly targets.
-
-| Language / Architecture | Progress |
-| --- | --- |
-| C++ | ![35%](https://geps.dev/progress/35) |
-| Rust | ![30%](https://geps.dev/progress/30) |
-| Fortran | ![5%](https://geps.dev/progress/5) |
-| x86 / x86-64 Assembly | ![40%](https://geps.dev/progress/40) |
-| ARM / AArch64 Assembly | ![20%](https://geps.dev/progress/20) |
-| ARM Cortex-M Assembly | ![15%](https://geps.dev/progress/15) |
-| RISC-V Assembly | ![15%](https://geps.dev/progress/15) |
-
 ## GitHub Stats
 
 <div align="center">
