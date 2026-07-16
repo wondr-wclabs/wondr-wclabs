@@ -71,6 +71,65 @@ I am currently going deeper into systems programming and embedded engineering, w
 ## Coding Activity
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.82%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 910.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,346 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 105 Public Repositories 
+ > 
+> 🔑 58 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                242 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+🌆 Daytime                478 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+🌃 Evening                1085 commits        ██████████░░░░░░░░░░░░░░░   39.93 % 
+🌙 Night                  912 commits         ████████░░░░░░░░░░░░░░░░░   33.57 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   501 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Tuesday                  434 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Wednesday                700 commits         ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+Thursday                 155 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Friday                   418 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Saturday                 230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Sunday                   279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               37 repos            █████████░░░░░░░░░░░░░░░░   35.24 % 
+Kotlin                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Ruby                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Swift                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+```
+
+
+
+
+ Last Updated on 16/07/2026 01:08:52 UTC
 <!--END_SECTION:waka-->
 
 ## Areas I'm Exploring
