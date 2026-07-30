@@ -75,34 +75,34 @@ I am currently going deeper into systems programming and embedded engineering, w
 
 **🐱 My GitHub Data** 
 
-> 📦 919.5 kB Used in GitHub's Storage 
+> 📦 918.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,373 Contributions in the Year 2026
+> 🏆 1,371 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 108 Public Repositories 
  > 
-> 🔑 63 Private Repositories 
+> 🔑 61 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                245 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-🌆 Daytime                493 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-🌃 Evening                1242 commits        ███████████░░░░░░░░░░░░░░   42.84 % 
-🌙 Night                  919 commits         ████████░░░░░░░░░░░░░░░░░   31.70 % 
+🌞 Morning                245 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+🌆 Daytime                495 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+🌃 Evening                1235 commits        ███████████░░░░░░░░░░░░░░   42.67 % 
+🌙 Night                  919 commits         ████████░░░░░░░░░░░░░░░░░   31.76 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   505 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Tuesday                  430 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Wednesday                714 commits         ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-Thursday                 287 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Friday                   449 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Saturday                 235 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Sunday                   279 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Monday                   507 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Tuesday                  423 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Wednesday                714 commits         ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+Thursday                 287 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Friday                   449 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Saturday                 235 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Sunday                   279 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
 ```
 
 
@@ -135,7 +135,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 20:04:35 UTC
+ Last Updated on 30/07/2026 20:14:16 UTC
 <!--END_SECTION:waka-->
 
 ## Areas I'm Exploring
