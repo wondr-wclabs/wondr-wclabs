@@ -88,21 +88,21 @@ I am currently going deeper into systems programming and embedded engineering, w
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                294 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-🌆 Daytime                573 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-🌃 Evening                1364 commits        ██████████░░░░░░░░░░░░░░░   41.45 % 
-🌙 Night                  1060 commits        ████████░░░░░░░░░░░░░░░░░   32.21 % 
+🌞 Morning                288 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+🌆 Daytime                581 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+🌃 Evening                1365 commits        ██████████░░░░░░░░░░░░░░░   41.43 % 
+🌙 Night                  1061 commits        ████████░░░░░░░░░░░░░░░░░   32.20 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   560 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Tuesday                  528 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Wednesday                742 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-Thursday                 310 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Friday                   545 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Saturday                 275 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Sunday                   331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Monday                   560 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Tuesday                  528 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Wednesday                742 commits         ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+Thursday                 310 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Friday                   551 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Saturday                 279 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Sunday                   325 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
 ```
 
 
@@ -135,7 +135,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 19:42:25 UTC
+ Last Updated on 15/08/2026 19:09:02 UTC
 <!--END_SECTION:waka-->
 
 ## Areas I'm Exploring
