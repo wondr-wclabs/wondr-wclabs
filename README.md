@@ -77,7 +77,7 @@ I am currently going deeper into systems programming and embedded engineering, w
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,463 Contributions in the Year 2026
+> 🏆 1,498 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -88,21 +88,21 @@ I am currently going deeper into systems programming and embedded engineering, w
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                284 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-🌆 Daytime                566 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-🌃 Evening                1339 commits        ██████████░░░░░░░░░░░░░░░   41.06 % 
-🌙 Night                  1072 commits        ████████░░░░░░░░░░░░░░░░░   32.87 % 
+🌞 Morning                285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+🌆 Daytime                568 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+🌃 Evening                1340 commits        ██████████░░░░░░░░░░░░░░░   41.04 % 
+🌙 Night                  1072 commits        ████████░░░░░░░░░░░░░░░░░   32.83 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   560 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Tuesday                  535 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Wednesday                742 commits         ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-Thursday                 313 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Friday                   522 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Saturday                 268 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Sunday                   321 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Monday                   560 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Tuesday                  534 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Wednesday                745 commits         ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+Thursday                 315 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Friday                   522 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Saturday                 268 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Sunday                   321 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
 ```
 
 
@@ -125,7 +125,7 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               41 repos            █████████░░░░░░░░░░░░░░░░   36.61 % 
+TypeScript               42 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
 JavaScript               24 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
 Kotlin                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 Ruby                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
@@ -135,7 +135,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 19:19:25 UTC
+ Last Updated on 18/08/2026 19:18:55 UTC
 <!--END_SECTION:waka-->
 
 ## Areas I'm Exploring
